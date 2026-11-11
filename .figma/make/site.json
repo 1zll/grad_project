@@ -1,0 +1,10 @@
+{
+  "description": "Transform designs into sleek, user-friendly interfaces using Material Design principles, enhancing usability for designers and developers alike.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
