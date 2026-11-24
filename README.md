@@ -1,10 +1,10 @@
 # CareerNote
 
-HTML + Tailwind CSS のフロントエンドと、Java 11 / Spring Boot の JSON API で構成した就職活動支援デモです。画面部品は `src/components/atoms`、`molecules`、`organisms`、`src/templates`、`src/pages` に分けています。
+HTML + Tailwind CSS のフロントエンドと、Java 25 / Spring Boot の JSON API で構成した就職活動支援デモです。画面部品は `src/components/atoms`、`molecules`、`organisms`、`src/templates`、`src/pages` に分けています。
 
 ## 起動方法
 
-1. Java 11 と Maven 3.6.3 以降を用意します。
+1. Java 25 と Maven 3.6.3 以降を用意します。
 2. 依存関係を復元し、Java API を起動します。
 
    ```powershell
